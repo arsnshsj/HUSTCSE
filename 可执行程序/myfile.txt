@@ -1,3 +1,0 @@
-c:\windows\Cursors\cross_il.cur,M,1709278081,8774
-c:\windows\INF\W3SVC\0000\w3ctrs.ini\,D,time,size
-c:\windows\Cursors\aero_ew_xl.cur2401,A,1709278081,273212
